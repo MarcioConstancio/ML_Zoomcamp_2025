@@ -56,4 +56,4 @@ This will install all the necessary libraries for the course.
 
 ## Coursework
 
-*   **Module 1:** [HW01](.\Module01\HW1.ipynb)
+*   **Module 1:** [HW01](Module01/)
