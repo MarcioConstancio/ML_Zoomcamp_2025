@@ -10,8 +10,6 @@ To clone this repository, you will need to have Git installed on your computer. 
 git clone git@github.com:MarcioConstancio/ML_Zoomcamp_2025.git
 ```
 
-Replace `<repository-url>` with the URL of this repository.
-
 ## How to Create and Activate a Virtual Environment
 
 It is recommended to use a virtual environment to manage the dependencies for this course.
