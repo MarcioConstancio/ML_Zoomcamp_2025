@@ -57,3 +57,4 @@ This will install all the necessary libraries for the course.
 ## Coursework
 
 *   **Module 1:** [HW01](Module01/)
+*   **Module 2:** [HW01](Module02/)
