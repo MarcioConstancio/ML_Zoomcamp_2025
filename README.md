@@ -60,5 +60,5 @@ This will install all the necessary libraries for the course.
 *   **Module 2:** [HW02](Module02/)
 *   **Module 3:** [HW03](Module03/)
 *   **Module 4:** [HW04](Module04/)
-
+*   **Module 5:** [HW04](Module05/)
 
